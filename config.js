@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "WOOOOW You wanna be inside me that bad?? 😝",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
@@ -61,7 +61,7 @@ const CONFIG = {
         backgroundEnd: "#080606",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#FFFFFF",     // Button color (should stand out against the background)
         buttonHover: "#DEDEDE",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#000000"             // Text color (make sure it's readable!)
+        textColor: "#FFFFFF"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
