@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Basti",
+    valentineName: "Stinky",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will you be my valentine? 💛",
+    pageTitle: "Will you be my valentine? 😙",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You wanna be inside me that bad?? 😝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW you wanna be inside me that bad?? 😝",  // Shows when they go past 5000%
+        high: "u obsessed bruh",              // Shows when they go past 1000%
+        normal: "hehe u love me lots"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 😝",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        message: "Now come get your gift, a big warm hug and a huge kiss! (And head hehe)",
         emojis: "🥰😝😘❤️😗"  // These will bounce around
     },
 
@@ -59,7 +59,7 @@ const CONFIG = {
     colors: {
         backgroundStart: "#080606",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#080606",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#FFFFFF",     // Button color (should stand out against the background)
+        buttonBackground: "#BD0000",     // Button color (should stand out against the background)
         buttonHover: "#DEDEDE",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#000000"             // Text color (make sure it's readable!)
     },
